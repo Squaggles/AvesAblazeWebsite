@@ -58,3 +58,14 @@ li.dropdown {
   text-align: center;
   font-family: "Arial Black";
 }
+.cu-header{
+	padding-left: 12em;
+	font-family:"Arial Black";
+}
+
+.cu-text{
+	padding-left: 12em;
+	font-family:monospace;
+	font-size: 18px;
+	font-style: normal;
+}
